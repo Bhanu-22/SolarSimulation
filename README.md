@@ -1,4 +1,4 @@
-# Frontend Assignment – Bhanu Prakash C M
+#  Assignment – Bhanu Prakash C M
 
 # Welcome to the 3D Solar System Simulation! 
 
